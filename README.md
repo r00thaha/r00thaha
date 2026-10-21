@@ -25,6 +25,7 @@
 
 ## 👤 whoami
 
+```bash
 r00thaha@kali:~$ whoami
 
 [+] Handle      : r00thaha
@@ -33,6 +34,7 @@ r00thaha@kali:~$ whoami
 [+] Specialty   : Web App Pentesting | Network Security | Exploit Dev
 [+] Status      : Breaking things to make them unbreakable 🖤
 [+] Mission     : Find vulnerabilities before the bad guys do
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>
 
@@ -40,7 +42,9 @@ r00thaha@kali:~$ whoami
 
 <div align="center">
 
+```bash
 r00thaha@kali:~$ fortune | cowsay -f hacker
+```
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 
