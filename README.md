@@ -92,41 +92,6 @@ r00thaha@kali:~$ fortune | cowsay -f hacker
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=r00thaha&show_icons=true&theme=github-dark-black&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00thaha&layout=compact&theme=github-dark-black&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" width="38%"/>
-
-<img src="https://streak-stats.demolab.com?user=r00thaha&theme=github-dark-black&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=r00thaha&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" width="90%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=r00thaha&theme=darkhub&no-frame=true&row=1&column=6"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/r00thaha/r00thaha/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer"/>
 
 </div>
