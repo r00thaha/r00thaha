@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/r00thaha/r00thaha/main/mikey.gif?v=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/r00thaha/r00thaha/main/mikey.gif?v=2" width="100%" height="280"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=r00thaha&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Breaking%20Vulnerabilities.%20Building%20Secure%20Systems.&descAlignY=58&descSize=16"/>
 
