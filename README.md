@@ -13,10 +13,6 @@
 ![Static Badge](https://img.shields.io/badge/BUG%20BOUNTY-000000?style=for-the-badge&logo=bugatti&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CANADA-000000?style=for-the-badge&logo=canada&logoColor=white)
 
-<br/><br/>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=r00thaha.r00thaha&left_color=000000&right_color=black&left_text=PROFILE%20VISITORS)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>
