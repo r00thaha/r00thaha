@@ -10,14 +10,18 @@
 
 ![Static Badge](https://img.shields.io/badge/ETHICAL%20HACKER-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PENTESTER-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/BUG%20BOUNTY-000000?style=for-the-badge&logo=bugatti&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CANADA-000000?style=for-the-badge&logo=canada&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BUG%20BOUNTY-000000?style=for-the-badge&logo=hackerone&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CANADA-000000?style=for-the-badge)
+
+<br/><br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=r00thaha&label=PROFILE+VISITORS&color=000000&style=for-the-badge)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>
 
-## 👤 whoami
+## whoami
 
 ```bash
 r00thaha@kali:~$ whoami
