@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Penetration+Tester;Vulnerability+Researcher;Bug+Bounty+Hunter;Red+Team+Operator" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Penetration+Tester;Vulnerability+Researcher;Bug+Bounty+Hunter;" />
 
 <br/><br/>
 
