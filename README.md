@@ -64,11 +64,9 @@
 
 ## Certifications & Learning
 
-- [ ] CompTIA Security+
-- [ ] eJPT
-- [ ] TryHackMe: **0x13 [ASCENDED]**
-
-*(Change `[ ]` to `[x]` as you complete each one.)*
+- [X] CompTIA Security+
+- [X] eJPT
+- [X] TryHackMe: **0x13 [ASCENDED]**
 
 ---
 
