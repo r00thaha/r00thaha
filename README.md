@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, r00thaha
+# Hey, Im r00thaha
 
 ### Cybersecurity enthusiast & developer
 
