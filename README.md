@@ -74,6 +74,4 @@
 
 > *"Security is not a product, but a process."*
 
-Built in Canada, powered by caffeine.
-
 </div>
