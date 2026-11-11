@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm YOUR NAME
+# Hey, r00thaha
 
 ### Cybersecurity enthusiast & developer
 
@@ -66,8 +66,7 @@
 
 - [ ] CompTIA Security+
 - [ ] eJPT
-- [ ] TryHackMe: **[your rank / path]**
-- [ ] Hack The Box: **[your rank]**
+- [ ] TryHackMe: **0x13 [ASCENDED]**
 
 *(Change `[ ]` to `[x]` as you complete each one.)*
 
